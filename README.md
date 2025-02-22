@@ -38,6 +38,27 @@ The goal was to create an app functionally similar to this: [FreeCodeCamp JavaSc
 - **HTML5 & CSS3** (Responsive, accessible styling)  
 
 ---
+## 🔹 How to Run Locally  
+
+1. **Clone the repository**  
+   ```git clone https://github.com/chauxvive/StrangerCalc.git```
+
+2. **Navigate to the project folder**
+```cd StrangerCalc```
+
+3. **Install dependencies**
+```npm install```
+
+4. **Start the development server**
+```npm run dev```
+
+5. **Open the app in your browser**
+Visit:
+```http://localhost:5173/```
+
+
+
+---
 
 ## 🔹 Who Am I?  
 
