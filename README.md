@@ -44,15 +44,19 @@ The goal was to create an app functionally similar to this: [FreeCodeCamp JavaSc
    ```git clone https://github.com/chauxvive/StrangerCalc.git```
 
 2. **Navigate to the project folder**
+   
    ```cd StrangerCalc```
 
-3. **Install dependencies**
+4. **Install dependencies**
+
    ```npm install```
 
-4. **Start the development server**
+6. **Start the development server**
+   
    ```npm run dev```
 
-5. **Open the app in your browser**
+8. **Open the app in your browser**
+   
 Visit:
    ```http://localhost:5173/```
 
