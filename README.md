@@ -1,28 +1,51 @@
 ![Rocktzar logo](https://res.cloudinary.com/mpauldesigns/image/upload/c_scale,q_100,w_200/v1540421311/rocktzar_red.png)
 
-# Stranger Calc
+# Stranger Calc 🎃👻  
+
+A **double-skinned** calculator built with **React + Vite** just in time for Spooky Season—because even your calculator should be appropriately spooky!  
+
+[🔗 **Try it out here**](https://chauxvive.github.io/fcc-calculator/)  
 
 ---
 
-### Project:
+## 🔹 The Project  
 
-This is a double skinned calculator made in accordance with the Free Code Camp front end libraries path.
-I made this just in time for Spooky Season, because even your calculator should be appropriately spooky. 
+This app was built as part of the **FreeCodeCamp Front End Libraries path**, inspired by the **JavaScript Calculator challenge**. It features:  
 
-Check it out here: https://chauxvive.github.io/fcc-calculator/
+✅ **Two Skins:** Classic Mode & Upside Down Mode 👀  
+✅ **Fully Responsive Design**  
+✅ **Built with React + TypeScript for smooth performance**  
 
-### The Problem:
+---
 
-* Objective: Build an app that is functionally similar to this: https://javascript-calculator.freecodecamp.rocks/.
+## 🔹 The Problem  
 
-* Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
+The goal was to create an app functionally similar to this: [FreeCodeCamp JavaScript Calculator](https://javascript-calculator.freecodecamp.rocks/).  
 
-* Must be aesthetically pleasing and use a library, in my case, React + Vite. 
+**Requirements:**  
+- Get all tests to pass ✅  
+- Implement **React & TypeScript**  
+- Make it **aesthetically pleasing & unique**  
+- Use a modern front-end build tool (Vite)  
 
-### Who am I?
+---
 
-I am a Software Developer and marketing specialist out of Connecticut open to new roles.
+## 🔹 Technologies Used  
 
-### Technologies Used:
+- **React** (Component-based UI)  
+- **TypeScript** (Type-safe development)  
+- **Vite** (Fast build tool)  
+- **HTML5 & CSS3** (Responsive, accessible styling)  
 
-HTML5, CSS3, Typescript, React, and Vite
+---
+
+## 🔹 Who Am I?  
+
+I’m a **Software Developer & Marketing Specialist** from Connecticut, open to new roles in **development, project management, and design-driven tech solutions**.  
+
+📩 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/mpauldesigns/) | [GitHub](https://github.com/chauxvive)  
+
+---
+
+💡 **Suggestions or bug reports?** Open an issue or submit a PR! 🚀  
+
